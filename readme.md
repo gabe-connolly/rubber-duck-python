@@ -15,4 +15,5 @@ Stuck on a tricky problem?  Not sure what you need to implement a new feature?  
 * The project can be configured with budget/credit constraints for the associated API services
 * The project will include default audio output for API failures
 * The project will include default audio output when budget constraints would be exceeded
-
+* The speech recognition engine should be swappable
+* The text to speech engine should be swappable
